@@ -1,0 +1,81 @@
+.left{
+	background-color: silver;
+	height: 1500px;
+}
+
+.right{
+	background-color: white;
+	height: 600px;
+}
+
+.button{
+	background-color: black;
+	color: white;
+	float: right;
+	padding: 10px;
+	text-align: center;
+}
+
+.line{
+	background-color: brown;
+	width: 50px;
+	height: 5px;
+	justify-content: center;
+}
+
+.top{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	width: 70px;
+	text-align: center;
+	float: right;
+	font-size: 10px;
+}
+
+.text{
+	text-align: center;
+	align-content: center;
+}
+
+.price{
+	text-align: center;
+	align-content: center;
+}
+
+.pet{
+	text-align: center;
+	align-content: center;
+}
+
+.col1{
+	text-align: center;
+	align-content: center;
+}
+
+h3{
+	font-family: arial black;
+}
+
+.round{
+	height: 40px;
+	width: 40px;
+	border-radius: 50px;
+	margin-bottom: 20px;
+	margin-right: 5px;
+	border: none;
+}
+
+.thumbnail{
+	width: 200px;
+	height: 200px;
+	 border: 0px;
+}
+
+.last{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	width: 190px;
+	text-align: center;
+}
